@@ -9,4 +9,7 @@ Outcome : sourcecode, if there is time to write a paper then includes it.
 
 ## Considerations
 
+high-speed, connection, interfacing. <br/>
+explain the reason why I choose above three things as first.   
+
 ## Reference
