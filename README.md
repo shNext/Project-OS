@@ -40,6 +40,8 @@ half-automatic function-specific os grouped by domain-specific without idle. for
 
 what is new features in this project comparing the traditional os. <br/>
 how to combine/preserve/take advantage of the existing os ecosystem. <br/>
-specify what is different with ai.
+specify what is different with ai. <br/>
+
+half-automatic function-specific fully-running-os grouped by domain-specific and the approach to utilize their ability considering the environments.
 
 ## Reference
