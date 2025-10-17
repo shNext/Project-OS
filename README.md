@@ -44,4 +44,7 @@ specify what is different with ai. <br/>
 
 half-automatic function-specific fully-running-os grouped by domain-specific and the approach to utilize their ability considering the environments.
 
+explain what I miss in this project such as ethics, law, etc for human focusing on safety and right. <br/>
+what can I do for that in this project.
+
 ## Reference
