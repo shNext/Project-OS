@@ -23,6 +23,9 @@ do not associate with/think about platform. <br/>
 
 how to maximize usability of the system without idle. <br/>
 
-analyze, safety, security. 
+analyze, safety, security. <br/>
+
+paradigm shift from traditional to next in os, define the way/direction. <br/>
+do not associate with/think about ai. remind that this is system. 
 
 ## Reference
