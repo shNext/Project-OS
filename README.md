@@ -10,6 +10,19 @@ Outcome : sourcecode, if there is time to write a paper then includes it.
 ## Considerations
 
 high-speed, connection, interfacing. <br/>
-explain the reason why I choose above three things as first.   
+explain the reason why I choose above three things as first. <br/>   
+
+high-speed for management. <br/>
+connection for enhancement, function, flexibility. <br/>
+interfacing for integration, extensibility. <br/>
+
+how to design os related with project, compiler, what is the advantage. <br/>
+everything doesnt have to do only on own os, for what. <br/>
+grouping function-specific os. <br/>
+do not associate with/think about platform. <br/>
+
+how to maximize usability of the system without idle. <br/>
+
+analyze, safety, security. 
 
 ## Reference
