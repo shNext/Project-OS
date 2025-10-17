@@ -36,6 +36,10 @@ automatic factory-like function-specific os without idle. specify the limitation
 producing, scheduling, grouping. <br/>
 
 define what is general-purpose/special-purpose os in this project. <br/>
-half-automatic function-specific os grouped by domain-specific without idle. for what.
+half-automatic function-specific os grouped by domain-specific without idle. for what. <br/>
+
+what is new features in this project comparing the traditional os. <br/>
+how to combine/preserve/take advantage of the existing os ecosystem. <br/>
+specify what is different with ai.
 
 ## Reference
