@@ -26,6 +26,7 @@ how to maximize usability of the system without idle. <br/>
 analyze, safety, security. <br/>
 
 paradigm shift from traditional to next in os, define the way/direction. <br/>
-do not associate with/think about ai. remind that this is system. 
+do not associate with/think about ai. remind that this is system. <br/> 
+automatic factory-like function-specific os without idle. specify the limitation and go inside more deeper.
 
 ## Reference
