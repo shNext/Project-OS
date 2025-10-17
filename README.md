@@ -25,8 +25,17 @@ how to maximize usability of the system without idle. <br/>
 
 analyze, safety, security. <br/>
 
+analysis for management. <br/>
+safety for human. <br/>
+security for system/somethings running on them. <br/>
+
 paradigm shift from traditional to next in os, define the way/direction. <br/>
 do not associate with/think about ai. remind that this is system. <br/> 
 automatic factory-like function-specific os without idle. specify the limitation and go inside more deeper.
+
+producing, scheduling, grouping. <br/>
+
+define what is general-purpose/special-purpose os in this project. <br/>
+half-automatic function-specific os grouped by domain-specific without idle. for what.
 
 ## Reference
