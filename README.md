@@ -57,6 +57,8 @@ explain how to know right and unright action on machine without learning. <br/>
 the principles for human-centric. <br/>
 
 define what is the key elements of the basic considering that they are machine. <br/>
+flexibility, restriction. <br/>
+
 without data, explainable algorithms-based at least how it works in internals, for safety. <br/>
 
 ## Reference
