@@ -55,9 +55,15 @@ but what is key concept in the agreement, how do we make a agreement to somethin
 
 explain how to know right and unright action on machine without learning. <br/>
 the principles for human-centric. <br/>
+what is different between principle and rule in this project. <br/>
+design the principles for machine/human co-ecosystem and how to create them. how to protect/keep the core in this project. <br/>
 
 define what is the key elements of the basic considering that they are machine. <br/>
 flexibility, restriction. <br/>
+flexibility to continuously extend/expand the task of machine. could this be ego of machine. <br/>
+if it is or not, explain about that. <br/>
+restriction to protect the subjects on the ecosystem. could this be a agreement in the ecosystem. <br/>
+if it is or not, explain about that. <br/>
 
 without data, explainable algorithms-based at least how it works in internals, for safety. <br/>
 
