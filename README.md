@@ -54,6 +54,9 @@ all machine should know what is right and unright action by doing so if one of t
 but what is key concept in the agreement, how do we make a agreement to something, what is basic. <br/>
 
 explain how to know right and unright action on machine without learning. <br/>
-define what is the key elements of the basic considering that they are machine.
+the principles for human-centric. <br/>
+
+define what is the key elements of the basic considering that they are machine. <br/>
+without data, explainable algorithms-based at least how it works in internals, for safety. <br/>
 
 ## Reference
