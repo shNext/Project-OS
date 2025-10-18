@@ -67,4 +67,11 @@ if it is or not, explain about that. <br/>
 
 without data, explainable algorithms-based at least how it works in internals, for safety. <br/>
 
+I think I have too much thinking. 😄 <br/>
+the algorithm could be similar with reinforcement learning but my concept of the algorithm/approach is getting out from the complicate and multi-stage learning based on the massive data and its dependency. <br/>
+I'm not sure that I can do but this challenge will bring us new way for the people who live in the world. <br/>
+I sincerely hope this project will be one of the way to start/make positive effect to the people, industry, economy, and many diverse area. <br/>
+
+end for consideration. 
+
 ## Reference
