@@ -45,6 +45,15 @@ specify what is different with ai. <br/>
 half-automatic function-specific fully-running-os grouped by domain-specific and the approach to utilize their ability considering the environments.
 
 explain what I miss in this project such as ethics, law, etc for human focusing on safety and right. <br/>
-what can I do for that in this project.
+what can I do for that in this project. <br/>
+
+define machine-centric ethics in their world. <br/>
+ehtics isnt just on individual but it needs social agreement in our world and machine also same, I think. <br/>
+how to define unethical action. <br/>
+all machine should know what is right and unright action by doing so if one of them has an unright action others can say "the machine is unethical". <br/>
+but what is key concept in the agreement, how do we make a agreement to something, what is basic. <br/>
+
+explain how to know right and unright action on machine without learning. <br/>
+define what is the key elements of the basic considering that they are machine.
 
 ## Reference
